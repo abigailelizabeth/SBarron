@@ -22,7 +22,6 @@
 
 import os, sys, re
 
-# TODO Change this to import from your main application file
 from sbarron import app
 
 import subprocess
